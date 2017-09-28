@@ -2,7 +2,31 @@
 
 Compiler Club is a reading, study, and meetup group based in Portland, OR, USA.
 
+## Workshop Possibilities
+
+One possible set of activities the club could do is a series of workshops. These could vary in tone from being lecture-heavy, similar to the classroom, to more hands-on, depending on what the members are interested in.
+
+Here are some example workshops. These could be combined or split up more as necessary.
+
+* History of Programming Languages
+* Assembly Language Crash Course (just enough to understand other topics)
+* Implementation of Programming Languages (parameter stacks, call stacks, parameter passing, ABIs, frames, threads, processes)
+* Compiling Overview
+* Lexical analysis (scanning)
+* Syntax analysis (parsing)
+* Intermediate representations
+* Code generation
+* Basic optimizations
+* VMs: LLVM, Clang
+* Case studies: Clang, GCC, CPython
+* Building a full compiler with LLVM
+
 ## Reading Lists
+
+### Books
+
+* [Compilers: Principles, Techniques, and Tools](http://amzn.to/2fToqKo) (Aho, Lam, Sethi, Ullman), a.k.a., the dragon book. The definitive classic reference.
+* [Language Implementation Patterns: Create Your Own Domain-Specific and General Programming Languages](http://amzn.to/2yb0QUn) (Parr). Modern book that uses ANTLR, an advanced parser generator written by Parr.
 
 ### Unladen Swallow Papers
 
@@ -58,3 +82,7 @@ The Google project Unladen Swallow (porting CPython to LLVM) had a [great list o
 * [Results from the TraceMonkey JIT](http://weblogs.mozillazine.org/roadmap/archives/2008/08/tracemonkey_javascript_lightsp.html). Includes comparison with the previous non-JIT version.
 * [Results from the SquirrelFish JIT](http://webkit.org/blog/214/introducing-squirrelfish-extreme/). Includes comparison with the previous non-JIT version.
 * [Recent work to improve V8 performance](http://chrome.blogspot.com/2009/03/google-chrome-has-new-beta_17.html). Only JIT/JIT comparisons, no non-JIT/JIT comparison.
+
+## Members
+
+* Christopher Swenson (swenson@swenson.io)
