@@ -28,6 +28,10 @@ Here are some example workshops. These could be combined or split up more as nec
 * [Compilers: Principles, Techniques, and Tools](http://amzn.to/2fToqKo) (Aho, Lam, Sethi, Ullman), a.k.a., the dragon book. The definitive classic reference.
 * [Language Implementation Patterns: Create Your Own Domain-Specific and General Programming Languages](http://amzn.to/2yb0QUn) (Parr). Modern book that uses ANTLR, an advanced parser generator written by Parr.
 
+### Misc Papers
+
+* [An Incremental Approach to Compiler Construction](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf) (Ghuloum).
+
 ### Unladen Swallow Papers
 
 The Google project Unladen Swallow (porting CPython to LLVM) had a [great list of papers](https://web.archive.org/web/20100210150911/http://code.google.com:80/p/unladen-swallow/wiki/RelevantPapers) relevant to 2009-era effort. The links are reproduced here:
