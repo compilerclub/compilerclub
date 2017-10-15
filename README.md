@@ -2,6 +2,8 @@
 
 Compiler Club is a reading, study, and meetup group based in Portland, OR, USA.
 
+We will schedule in-person meetings through [our Meetup group](http://meetu.ps/c/3zSq0/11BPD/f).
+
 ## Workshop Possibilities
 
 One possible set of activities the club could do is a series of workshops. These could vary in tone from being lecture-heavy, similar to the classroom, to more hands-on, depending on what the members are interested in.
